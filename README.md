@@ -1,3 +1,5 @@
+This repository is a copy of https://github.com/Automattic/socket.io-client/tree/0.9, the only difference is the name of the package in package.json.
+
 socket.io
 =========
 
